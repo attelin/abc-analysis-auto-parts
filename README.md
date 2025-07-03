@@ -4,7 +4,7 @@ This project presents an ABC analysis of six months of automotive spare parts sa
 
 The goal of this project is to improve base stock availability for frequently sold spare parts in the warehouse.
 
-Note: All data in this repository is anonymized and used for educational/demo purposes only.
+Note: All data in this repository is anonymized.
 
 ## 📊 Analysis Steps
 
