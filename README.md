@@ -1,6 +1,7 @@
 # ABC Analysis of Automotive Spare Parts
 
 This project presents an ABC analysis of six months of automotive spare parts sales data using Excel.
+Note: All data in this repository is anonymized and used for educational/demo purposes only.
 
 ## 📊 Analysis Steps
 
