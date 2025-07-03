@@ -24,6 +24,7 @@ Note: All data in this repository is anonymized and used for educational/demo pu
 
 ## 📁 Attachments
 
-- `abc-analysis-data.xlsx`  
+- `abc-analysis-auto-parts.xlsx`
+- `Raw data.xlsx`
 - Screenshot of the analysis table
 - Screenshot of the raw data
