@@ -1,10 +1,21 @@
-# abc-analysis-auto-parts
-ABC Analysis of Automotive Spare Parts Sales Data (6 Months)
+# ABC-analyysi autoalan varaosista
 
-rivi3
+Tässä projektissa analysoin autoalan varaosien 6 kuukauden myyntidataa ABC-analyysin avulla Google Sheetsissä.
 
-rivi4
+## 📊 Analyysin vaiheet
 
-rivi5
+1. Datan keruu ja siivous
+2. Kokonaismyynnin laskenta
+3. Tuotteiden osuudet ja kumulatiivinen osuus
+4. ABC-luokitus:
+   - A = top 80 %
+   - B = seuraavat 15 %
+   - C = viimeiset 5 %
 
-rivi6
+## 🔧 Työkalut
+
+- Google Sheets
+- ABC-analyysi
+- GitHub (tämä repositorio)
+
+## 📁 Liitteet
